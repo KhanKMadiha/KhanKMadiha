@@ -1,6 +1,6 @@
-# Hi, I’m Madiha 👋
+# Hi, I’m Madiha 👋🏼
 
-Senior Support Professional with 5+ years supporting developer-facing platforms across EMEA. I own complex technical escalations end to end, build the operational infrastructure that scales support teams, and use AI to make both better.
+Senior Support Professional with 5+ years in customer-facing and technical support roles, specialising in developer-facing platforms across EMEA. I own complex technical escalations end to end, build the operational infrastructure that scales support teams, and use AI to make both better.
 
 Currently at Stack Overflow, where I lead P1/P2 incident response across 100+ enterprise environments, build Datadog observability dashboards, and design the documentation and workflows that reduce repeat tickets and cut engineering investigation time.
 
