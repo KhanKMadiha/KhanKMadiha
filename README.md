@@ -24,7 +24,7 @@ A four-step support workflow tool: paste a ticket, match internal documentation,
 
 **Stack:** Vanilla JS, Cloudflare Workers, Anthropic Claude API, Notion API
 
-[Live demo](https://madihaintech.me) · [Repo](https://github.com/KhanKMadiha/support-dashboard)
+[Live demo](https://madihaintech.me) · [Repo](https://github.com/KhanKMadiha/support-ticket-analyser)
 
 ---
 
